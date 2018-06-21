@@ -1,0 +1,21 @@
+{
+  "name": "express-todo",
+  "version": "1.0.0",
+  "description": "ejemplo de api express",
+  "main": "nodemon app.js",
+  "scripts": {
+    "test": "nodemon app.js"
+  },
+  "author": "kell dintch",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.17.5"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "env": "0.0.2",
+    "express": "^4.16.3",
+    "mongoose": "^5.1.6"
+  }
+}
